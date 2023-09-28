@@ -141,6 +141,9 @@
     <ClCompile Include="test3_4.c" />
     <ClCompile Include="test3_9.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

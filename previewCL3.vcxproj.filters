@@ -55,4 +55,9 @@
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>來源檔案</Filter>
+    </None>
+  </ItemGroup>
 </Project>
